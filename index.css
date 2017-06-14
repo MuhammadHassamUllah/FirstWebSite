@@ -1,1 +1,4 @@
-This is the first css file in the folder
+.zappy{ background-color: blue}
+table, th, td { border: 1px solid red;
+                border-collapse: collapse;}
+th, td {padding: 15px;}
